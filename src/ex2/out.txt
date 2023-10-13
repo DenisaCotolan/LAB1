@@ -1,0 +1,4 @@
+Suma este: 26
+Media aritmetica este: 4.0
+Maximul este: 9
+Minimul este: 1
